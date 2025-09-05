@@ -1,5 +1,5 @@
 # Radiological Monitoring: a Data Science Case Study
-The repository contains a Jupyter Notebook case study of 4 years of radiological monitoring data from the Food Standards Agency (FSA). The project was completed as coursework for the module "Programming for Data Science" and received a Distinction.
+A Data Science case study made from 4 years of radiological monitoring data from the Food Standards Agency (FSA). The project was completed as coursework for the module "Programming for Data Science" and received a Distinction (>70%).
 
 ## Summary
 The Food Standards Agency (FSA) routinely test isotope levels in various consumables across the United Kingdom. Common examples include meat, fish, eggs, milk, grain, soil, air and water. A simple analysis found that significantly more readings are taken in or around Sellafield, a town in Cumbria. Research revealed that Sellafield is home to Sellafield nuclear site, previously known as Windscale. Windscale was victim to a significant nuclear disaster in 1957 (see more [here](https://en.wikipedia.org/wiki/Windscale_fire)).
